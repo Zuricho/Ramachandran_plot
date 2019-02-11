@@ -1,7 +1,7 @@
 # Ramachandran_plot
 Using biopython &amp; matplotlib to draw different ramachandran_plots. The phi psi angle are from AMBER forcefield simulation result &amp; CPPTRAJ analyse
 
-**Biopython**, **Numpy** and **Matplotlib** is needed. The environment is python **3.7**.
+**Biopython**, **Numpy** and **Matplotlib** is needed. The environment is **python 3.7**.
 
 ## Rama_PTR.png
 This is an example file.
